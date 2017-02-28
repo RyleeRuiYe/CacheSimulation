@@ -1,1 +1,1 @@
-# CacheSimulation
+# CacheSimulation 输入trace是spc格式，通过实际trace计算cache的命中率和吞吐率
